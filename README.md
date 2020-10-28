@@ -4,7 +4,8 @@
   
 ## 🚀 TECHNOLOGIES
 
-  ### [*React*](https://en.reactjs.org/)
+  ### [*React-Native*](https://reactnative.dev/)
+  ### [*Expo*](https://expo.io/)
   ### [*NodeJS*](https://nodejs.org/en/)
   
   
