@@ -1,6 +1,7 @@
 
-<img class="center">![](https://raw.githubusercontent.com/rocketseat-education/nlw-02-omnistack/7b302d44a09c7428e1e535dfe2cae97e6fa9b67d/.github/logo.svg)
-
+<h1 align="center">
+    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
+</h1>
 
 
 ![](https://github.com/rocketseat-education/nlw-02-omnistack/blob/master/.github/proffy.png?raw=true)
