@@ -1,3 +1,8 @@
+<h1 align="center">Proffy</h1>
+
+![](https://github.com/rocketseat-education/nlw-02-omnistack/blob/master/.github/proffy.png?raw=true)
+
+
 ## 💻 PROJECT
 
   ### *Proffy it's a plataform of studies online, help people to find teachers online*
