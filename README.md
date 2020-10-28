@@ -3,8 +3,9 @@
     <img alt="Proffy" title="Proffy" src="https://github.com/rocketseat-education/nlw-02-omnistack/raw/master/.github/logo.svg" />
 </h1>
 
-
-![](https://github.com/rocketseat-education/nlw-02-omnistack/blob/master/.github/proffy.png?raw=true)
+<p align="center">
+  <img alt="Proffy" src="https://github.com/rocketseat-education/nlw-02-omnistack/blob/master/.github/proffy.png?raw=true" width="100%">
+</p>
 
 
 ## 💻 PROJECT
