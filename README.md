@@ -1,4 +1,4 @@
-<h1 align="center">![](https://raw.githubusercontent.com/rocketseat-education/nlw-02-omnistack/7b302d44a09c7428e1e535dfe2cae97e6fa9b67d/.github/logo.svg)</h1>
+<p align="center">![](https://raw.githubusercontent.com/rocketseat-education/nlw-02-omnistack/7b302d44a09c7428e1e535dfe2cae97e6fa9b67d/.github/logo.svg)</p>
 
 
 
